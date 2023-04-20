@@ -1,0 +1,1 @@
+Matplotlib ver 3.7.1
